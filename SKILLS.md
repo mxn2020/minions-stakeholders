@@ -1,6 +1,12 @@
 ---
 name: minions-stakeholders
-description: Stakeholder registry, roles, and communication preferences
+id: OC-0162
+version: 1.0.0
+description: "Stakeholder registry, roles, and communication preferences"
+category: productivity
+subcategory: crm
+tags: ["minion", "productivity", "crm"]
+comments:
 ---
 
 # minions-stakeholders — Agent Skills
