@@ -6,3 +6,4 @@ description: "Stakeholder registry, roles, and communication preferences"
 priority: high
 deploy_url: null
 tags: null
+category: minion-toolbox
