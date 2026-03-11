@@ -1,0 +1,8 @@
+name: "@minions-stakeholders/docs"
+project_scope: child
+child_type: docs
+parent_project: minions-stakeholders-workspace
+description: "Standard compliance definition for @minions-stakeholders/docs"
+priority: high
+deploy_url: null
+tags: null

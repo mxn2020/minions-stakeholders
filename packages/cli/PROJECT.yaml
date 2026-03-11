@@ -1,0 +1,8 @@
+name: "@minions-stakeholders/cli"
+project_scope: child
+child_type: cli
+parent_project: minions-stakeholders-workspace
+description: "CLI for minions-stakeholders — Stakeholder registry, roles, and communication preferences"
+priority: high
+deploy_url: null
+tags: null

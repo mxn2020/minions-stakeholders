@@ -1,0 +1,8 @@
+name: "@minions-stakeholders/sdk"
+project_scope: child
+child_type: sdk
+parent_project: minions-stakeholders-workspace
+description: "Stakeholder registry, roles, and communication preferences"
+priority: high
+deploy_url: null
+tags: null
